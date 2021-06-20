@@ -13,17 +13,17 @@ function Contact() {
             </div>
         </section>
 
-        <section class="row hover-effects">
-            <div class="container col-lg-4">
-                <div class="box">
-                    <div class="imgBx">
-                        <span class="material-icons">
+        <section className="row hover-effects">
+            <div className="container col-lg-4">
+                <div className="box">
+                    <div className="imgBx">
+                        <span className="material-icons">
                             phone
                             </span>
                     </div>
-                    <div class="content">
-                        <div class="icon">
-                            <span class="material-icons">
+                    <div className="content">
+                        <div className="icon">
+                            <span className="material-icons">
                                 phone
                             </span>
                             <h3>Phone No.</h3>
@@ -33,16 +33,16 @@ function Contact() {
                     </div>
                 </div>
             </div>
-            <div class="container col-lg-4">
-                <div class="box">
-                    <div class="imgBx">
-                        <span class="material-icons">
+            <div className="container col-lg-4">
+                <div className="box">
+                    <div className="imgBx">
+                        <span className="material-icons">
                             email
                             </span>
                     </div>
-                    <div class="content">
-                        <div class="icon">
-                            <span class="material-icons">
+                    <div className="content">
+                        <div className="icon">
+                            <span className="material-icons">
                                 email
                             </span>
                             <h3>Email</h3>
@@ -51,16 +51,16 @@ function Contact() {
                     </div>
                 </div>
             </div>
-            <div class="container col-lg-4">
-                <div class="box">
-                    <div class="imgBx">
-                        <span class="material-icons">
+            <div className="container col-lg-4">
+                <div className="box">
+                    <div className="imgBx">
+                        <span className="material-icons">
                             place
                             </span>
                         </div>
-                        <div class="content">
-                            <div class="icon">
-                                <span class="material-icons">
+                        <div className="content">
+                            <div className="icon">
+                                <span className="material-icons">
                                     place
                                 </span>
                                 <h3>Address</h3>

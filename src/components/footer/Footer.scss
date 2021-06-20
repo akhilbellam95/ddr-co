@@ -1,7 +1,15 @@
 @import '../../assets/styles/variables.scss';
 
 .footer {
+    display: flex;
+    padding: 5% 10%;
     min-height: 200px;
     width: auto;
     background-color: $footer-color;
+    .address {
+        width: 50%;
+    }
+    .social-media {
+        width: 50%;
+    }
 }

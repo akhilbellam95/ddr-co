@@ -1,0 +1,33 @@
+@import '../../assets/styles/variables.scss';
+
+thead {
+    background-color: $primary-color;
+}
+
+th {
+    vertical-align: middle !important;
+    color: $secondary-color;
+}
+
+td {
+    text-align: left !important;
+    padding: 0.5rem !important;
+}
+
+.years {
+    min-width: 110px;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.justify {
+    text-align: justify !important;
+}
+
+@media screen and (max-width: 380px) {
+    .container {
+        width: 90%;
+    }
+}

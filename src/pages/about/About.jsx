@@ -4,9 +4,9 @@ import './About.scss';
 function About() {
     return <div className="hero-img">
         <section id="about-us">
-          <div class="v-and-m">
-            <table class="table table-bordered">
-              <thead class="thead-dark">
+          <div className="v-and-m">
+            <table className="table table-bordered">
+              <thead className="thead-dark">
                 <tr>
                   <th scope="col">Vission</th>
                   <th scope="col">Mission</th>
@@ -21,8 +21,8 @@ function About() {
             </table>
           </div>
           <br />
-          <div class="row">
-            <div class="description-textbox">
+          <div className="row">
+            <div className="description-textbox">
               <h4 id="four">INTRODUCTION TO D.D.R CONSTRUCTIONS</h4>
               <p>D.D.R. Company was incorporated on 22.04.1998, under Part – IX of the Indian Companies Act 1956, with Md. Shahul Hameed as the Chairman and Managing Director, by transferring all assets, liabilities and experience of a partnership firm, M/s D.D.R & Co. set up in the year 1995, when it had a turnover of 10.06 crores. This firm had succeeded a proprietorship firm which started contract business in the year 1979, by D. Dasarath Ramaiah (Late). Md. Shahul Hameed’s dynamism and Will has helped develop the Company to reach a turnover of Rs.55 Crores.  Md. Shahul Hameed hails from Ongole Town in Andhra Pradesh. He has completed his Bachelor of Arts. Soon after his studies and in the year 1991 he has improved the business of laying roads in a mechanized way. DDR & Co.,  is strongly entrenched with proven domain knowledge, experience and credentials.  DDR & Co.,  operates in the following infrastructure sectors:</p>
                 <ul>
@@ -46,8 +46,8 @@ function About() {
               </div>
             </div>
             <br/>
-            <div class="row">
-              <div class="credentials">
+            <div className="row">
+              <div className="credentials">
                 <h4>CREDENTIALS & APPRECIATION</h4>
                 <p>Our planned execution of works with strict adherence to standards and specifications and timely completion of work as per schedule has received commendation from Departmental Officers, cutting through various cadres.</p>
                 <p>The NHAI work of “Short term improvement & routine maintenance of Divancheruvu - Gundugolanu - section from km.901.753 to km.1022.494 of NH-5 in the state of Andhra Pradesh, Value of Rs.24.00 Crores” was awarded to us in August 2014, for an agreement value of Rs. 24 Crores, with a scheduled time period of 1 year. During the said period, taking into account of our uncompromising quality in execution of the work as per schedule, additional items of work to the tune of Rs. 3 Crores were awarded to us by the Department. All the works for the full value of Rs.27 Crores were successfully completed within the agreement schedule time of 1 year. The Company has consistently been a member in the Nation’s Economic Development, by strictly adhering to its duties towards payment of Income Tax, Sales Tax and other taxes. Needless to say, for many years, we have been one of the Highest Taxpayers in our region.</p>
